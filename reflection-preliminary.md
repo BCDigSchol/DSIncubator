@@ -19,4 +19,4 @@ We ask that you contribute your written reflection (perhaps around 500 words) to
 
 ## Credit where credit is due
 
-This list of questions is re-uses those from the [Making the Humanities Digital](https://aeshin.org/teaching/inls-890-186/2012/fa) course taught by Ryan Shaw in Fall 2012 at the UNC-Chapel Hill School of Library and Information Science. Shaw, in turn, lightly adapted this course design from [Melanie Feinberg](https://ils.unc.edu/~mfeinber).
+This list of questions is re-uses those from the [Making the Humanities Digital](https://aeshin.org/teaching/inls-890-186/2012/fa) course taught by Ryan Shaw in Fall 2012 at the [UNC-Chapel Hill School of Library and Information Science](https://sils.unc.edu). Shaw, in turn, lightly adapted this course design from [Melanie Feinberg](https://ils.unc.edu/~mfeinber).
