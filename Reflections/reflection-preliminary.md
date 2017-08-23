@@ -15,7 +15,9 @@ To kick off your participation in the incubator, we ask you to reflect upon the 
 
 ## Where to post
 
-We ask that you contribute your written reflection (perhaps around 500 words) to the Boston College Libraries' [digital scholarship blog](https://ds.bc.edu/blog). You will receive an invitation to become a contributor to the Boston College Libraries' [digital scholarship website](https://ds.bc.edu/blog). Please create a post and include it in the 'Incubator' category.
+We ask that you contribute your written reflection (perhaps around 500 words) to the Boston College Libraries' [digital scholarship blog](https://ds.bc.edu/blog).
+
+You will receive an invitation to become a contributor to the Boston College Libraries' [digital scholarship website](https://ds.bc.edu/blog) on WordPress. Please create a post and include it in the [Incubator](https://ds.bc.edu/category/incubator) category.
 
 ## Credit where credit is due
 
