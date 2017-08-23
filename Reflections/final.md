@@ -1,6 +1,6 @@
 # Final reflection
 
-# Prompt
+## Prompt
 
 To conclude your participation in the incubator, we ask you to reflect upon the goals of the project you hope to more fully develop during our time together. Some questions to guide your thinking include:
 
