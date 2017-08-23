@@ -19,4 +19,4 @@ During the incubator, we will also ask that you document your participation thro
 
 ## Resources
 
-For additonal resources—including data sources, literature and tutorials, view our [DSIncubator Zotero](https://www.zotero.org/groups/354489/dsincubator) group. Please add freely! This group serves as a living library for our cohort.
+For additonal resources—including data sources, literature and tutorials—view our [DSIncubator Zotero](https://www.zotero.org/groups/354489/dsincubator) group. Please add freely! This group serves as a living library for our cohort.
