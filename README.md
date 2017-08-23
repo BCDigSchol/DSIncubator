@@ -4,7 +4,7 @@ Welcome to the Digital Scholarship Incubator!
 
 ## Overview
 
-0. Introduction
+0. [Introduction](0_Intro)
 1. Humanities & Social Science Data
 2. Thematic Digital Collections
 3. Digital Editions
