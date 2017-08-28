@@ -13,11 +13,9 @@ To kick off your participation in the incubator, we ask you to reflect upon the 
 - Where do I go next?
 - What am I aiming for? What would a successful project look like? What would a failed project look like?
 
-## Where to post
+## Where to submit
 
-We ask that you contribute your written reflection (perhaps around 500 words) to the Boston College Libraries' [digital scholarship blog](https://ds.bc.edu/blog).
-
-You will receive an invitation to become a contributor to the Boston College Libraries' [digital scholarship website](https://ds.bc.edu/blog) on WordPress. Please create a post and include it in the [Incubator](https://ds.bc.edu/category/incubator) category.
+We ask that you submit your written reflection (perhaps around 500 words) to our cohort's Google Group at digital-incubator-ggroup@bc.edu. With your permission, we will post your reflection on the the Boston College Libraries' [digital scholarship blog](https://ds.bc.edu/blog) in the [Incubator](https://ds.bc.edu/category/incubator) category.
 
 ## Credit where credit is due
 
