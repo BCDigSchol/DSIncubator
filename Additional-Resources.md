@@ -8,7 +8,8 @@
 - international directory of digital humanities centers or labs
 - [DHCommons](http://dhcommons.org/): find collaborators or partners for your project
 
-[Zotero DH Syllabi Library](https://www.zotero.org/groups/30/digital_humanities/items/collectionKey/7ACF6WTT)
+[DH Syllabi Library](https://www.zotero.org/groups/30/digital_humanities/items/collectionKey/7ACF6WTT)
+- open Zotero group
 - also includes DH topical readings organized in folders
 
 [TaDiRAH](http://tadirah.dariah.eu/vocab/index.php)
