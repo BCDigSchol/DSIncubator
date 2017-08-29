@@ -1,4 +1,4 @@
-# An Assortment of Additional Resources
+# An Assortment of Resources
 
 [Boston DH Consortium](https://bostondh.org/)
 - (greater) Boston community of digital humanities and digital scholarship practitioners and enthusiasts
