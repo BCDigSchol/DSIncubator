@@ -24,6 +24,10 @@ What is this project about?
 
 What kind of data are they using?
 
+How might they have cleaned or prepared the data?
+
 What kind of methods or tools are being applied? 
 
 Are there any limitations to the data and/or methods chosen?
+
+
