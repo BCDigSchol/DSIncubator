@@ -6,8 +6,13 @@
 3. What kinds of data do you work with?
 4. Do you have ways that you currently clean or pre-process data?
 
-- Go to [project examples and critique section](https://github.com/BCDigSchol/DSIncubator/blob/master/1_Data/project-critique.md)
+## Project Critique Exercise
 
+Go to [project examples and critique section](https://github.com/BCDigSchol/DSIncubator/blob/master/1_Data/project-critique.md)
+
+## Data Activity
+
+Draw your data!
 
 ## Suggested Readings
 - [Against Cleaning](http://curatingmenus.org/articles/against-cleaning)
