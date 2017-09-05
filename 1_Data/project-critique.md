@@ -30,4 +30,4 @@ What kind of methods or tools are being applied?
 
 Are there any limitations to the data and/or methods chosen?
 
-
+[Print out a copy of the template](https://github.com/BCDigSchol/DSIncubator/blob/master/1_Data/template-project-critique.docx)
