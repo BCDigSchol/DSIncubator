@@ -15,8 +15,9 @@ Go to [project examples and critique section](https://github.com/BCDigSchol/DSIn
 Draw your data!
 
 ## Suggested Readings
-- [Against Cleaning](http://curatingmenus.org/articles/against-cleaning)
-- [Collections as Data](https://collectionsasdata.github.io/statement/)
-- [JDH: Big? Smart? Clean? Messy? Data in the Humanities](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities)
+
+- Rawson and Muñoz, [JDH: Big? Smart? Clean? Messy? Data in the Humanities](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities)
+- Schöch, [Against Cleaning](http://curatingmenus.org/articles/against-cleaning)
+- The Santa Barbara Statement on [Collections as Data](https://collectionsasdata.github.io/statement/)
 
 [Subscribe to this session’s readings](https://api.zotero.org/groups/354489/items?start=0&limit=25&format=atom&tag=01_Data&v=1) in the DSIncubator Zotero Library
