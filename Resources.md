@@ -12,6 +12,9 @@
 - open Zotero group
 - also includes DH topical readings organized in folders
 
+[DH Syllabus Collection](https://hcommons.org/deposits/?facets[genre_facet][]=Syllabus&facets[subject_facet][]=Digital+humanities)
+- Syllabi deposited into the Humanities Commons repository
+
 [TaDiRAH](http://tadirah.dariah.eu/vocab/index.php)
 - taxonomy of digital research activities in the humanities
 
