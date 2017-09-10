@@ -37,7 +37,7 @@ Finally, share your data story with someone else and talk through your prelimina
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
-[Draw and Write Your Data Story](https://www.datavizforall.org/choose/draw) is copyrighted by Jack Dougherty, Stacy Lam, and David Tatem and is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by/4.0).
+[Draw and Write Your Data Story](https://www.datavizforall.org/choose/draw) by Jack Dougherty, Stacy Lam, and David Tatem is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by/4.0).
 
 ## Suggested Readings
 
