@@ -18,7 +18,7 @@
 * [Adams Papers](https://www.masshist.org/publications/apde2/)
 
 
-## Critique
+## Critique Template
 
 Project Name:
 
