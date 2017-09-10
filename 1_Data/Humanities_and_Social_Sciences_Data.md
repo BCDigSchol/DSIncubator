@@ -2,7 +2,7 @@
 
 ## Reflections on Reflections
 
-This week we asked you to submit a [preliminary reflection](preliminary.md) on the goals of the project you hope to develop over the course of the incubator.
+This week we asked you to submit a [preliminary reflection](Reflections/preliminary.md) on the goals of the project you hope to develop over the course of the incubator.
 
 - Did anything surprising come out of the process of writing your reflection?
 - Several of you chose to write about the affective experience of developing a digital scholarship project. Are you itching to get started? A bit apprehensive? Why?
