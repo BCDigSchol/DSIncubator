@@ -52,4 +52,4 @@ This exercise is lightly adapted from [Draw and Write Your Data Story](https://w
 - Rawson and Muñoz, [Against Cleaning](http://curatingmenus.org/articles/against-cleaning)
 - The Santa Barbara Statement on [Collections as Data](https://collectionsasdata.github.io/statement/)
 
-[Subscribe to this session’s readings](https://api.zotero.org/groups/354489/items?start=0&limit=25&format=atom&tag=01_Data&v=1) in the DSIncubator Zotero Library.
+[Subscribe to this session’s readings](https://api.zotero.org/groups/354489/items?start=0&limit=25&format=atom&tag=01_Data&v=1) in the DSIncubator Zotero Library. 
