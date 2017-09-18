@@ -26,7 +26,12 @@ Form pairs, select an Omeka project, explore it together, and discuss the questi
 
 - [Documenting Ferguson](http://digital.wustl.edu/ferguson) (Washington University in St. Louis)
 - [Our Marathon](http://marathon.neu.edu) (Northeastern University)
-- [A People’s Archive of Police Violence in Cleveland](http://archivingpoliceviolence.org) 
+- [A People’s Archive of Police Violence in Cleveland](http://archivingpoliceviolence.org)
+
+## Podcast Projects
+
+- [On Being](https://onbeing.org)
+- [Ottoman History Podcast](http://www.ottomanhistorypodcast.com)
 
 ## Discussion Questions
 
