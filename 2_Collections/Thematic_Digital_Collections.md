@@ -30,6 +30,6 @@ A [resources document](resources.md) includes select readings, tutorials, and ex
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed by creators Chelcie Juliet Rowell and Sarah Melton under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-#Resources
+## Resources
 
 [Subscribe to this session’s readings](https://api.zotero.org/groups/354489/items?start=0&limit=25&format=atom&tag=02_Digital_Collections&v=1) in the DSIncubator Zotero Library
