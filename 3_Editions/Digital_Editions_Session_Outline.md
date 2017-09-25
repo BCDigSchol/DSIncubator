@@ -13,6 +13,7 @@ Participants will:
 * Identify points of mediation between themselves and digital editions’ texts
 * Understand how design impacts digital editions’ functionalities
 * Conceptualize the boundaries of the digital edition: i.e., when is it no longer an edition?
+* Contextualize digital editions in the larger scholarly publication landscape
 
 ## Workshop Outlines
 The workshop will consist of four hands-on exercises. Participants will split into four groups, and each group will complete one over the course of twenty to thirty minutes.
