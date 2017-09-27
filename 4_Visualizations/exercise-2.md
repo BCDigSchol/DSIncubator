@@ -22,7 +22,8 @@
      * We will return to these items later.
    * Notice that you can toggle between your data table and map view in the bottom right corner of your map.
 
-5. Let's pause and look at our maps.
+Let's pause and look at our maps.
+
 
 ### Polygons
 
@@ -33,7 +34,8 @@
 3. Your map now has polygons, but where did the points go?
     * Move your layer cards so that A (landmarks) is before B (neighborhoods).
 
-4. Let's explore the data layers and the basemap options.
+Let's explore the data layers and the basemap options.
+
 
 ### Displaying & Styling Data
 
