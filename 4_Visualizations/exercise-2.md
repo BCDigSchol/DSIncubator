@@ -19,7 +19,8 @@
    * Zoom in to Boston to see the points on your map.
    * You'll notice that your sidebar now has additional menu items
      * Data, Analysis, Style, Pop-up, Legend
-     * We will return to these items later.
+     * Within the "Style" section, you can adjust how your points are aggregated. This is where you can, for example, create a 
+     torque map (interactive time-based map).
    * Notice that you can toggle between your data table and map view in the bottom right corner of your map.
 
 Let's pause and look at our maps.
