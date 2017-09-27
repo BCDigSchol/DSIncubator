@@ -4,20 +4,20 @@
 
 ### Points
 
-1. Login to the [Carto](https://carto.com/) dashboard
+1. Login to the [Carto](https://carto.com/) dashboard:
    * Find "Your datasets" where you will upload new datasets.
    * Find "Your maps" where you will be able to see your published maps.
 
 2. Download the [Boston_Neighborhoods](https://github.com/BCDigSchol/DSIncubator/blob/master/4_Visualizations/datasets/Boston_Neighborhoods.zip) and [Boston_Landmarks](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDy2yIioREvlj6HXiTCKsBoIRTWSuT2iV1AZu_EvrrftPKhhbHCY2uh4uFWzz0nhMPUwvNknhIPvLZ/pubhtml) datasets.
 
-3. In your Carto dashboard go to "datasets"
+3. In your Carto dashboard go to "datasets":
     * Select "new dataset" and upload the Boston Landmarks dataset (or connect via Google Drive).
     * You can view your table in Carto and make edits to the column headers here.
     * Select "create map" to generate a map based on this table.
 
 4. Your map now has points!
    * Zoom in to Boston to see the points on your map.
-   * You'll notice that your sidebar now has additional menu items
+   * You'll notice that your sidebar now has additional menu items:
      * Data, Analysis, Style, Pop-up, Legend
      * Within the "Style" section, you can adjust how your points are aggregated. This is where you can, for example, create a 
      torque map (interactive time-based map).
