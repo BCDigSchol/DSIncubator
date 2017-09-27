@@ -21,4 +21,4 @@ This session will consist of two hands-on exercises:
 ## Resources
 A resources document that includes geospatial visualization, spatial humanities, tutorials, and GIS data sources.
 
-[Subscribe to this session’s readings](https://api.zotero.org/groups/354489/items?start=0&limit=25&format=atom&tag=04_Visualizations&v=1) in the DSIncubator Zotero Library
+[Subscribe to this session’s readings](https://api.zotero.org/groups/354489/items?start=0&limit=25&format=atom&tag=04_Visualizations&v=1) in the DSIncubator Zotero Library.
