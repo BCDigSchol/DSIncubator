@@ -16,7 +16,7 @@ Participants will:
 This session will consist of two hands-on exercises:
 
 - Exercise 1: Critique a visualization project
-- Exercise 2: Use Boston landmarks and neighborhoods data to create a map
+- Exercise 2: Create a map using Boston landmarks and neighborhoods data
 
 ## Resources
 A resources document that includes geospatial visualization, spatial humanities, tutorials, and GIS data sources.
