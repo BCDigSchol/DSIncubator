@@ -19,6 +19,6 @@ This session will consist of two hands-on exercises:
 - [Exercise 2](https://github.com/BCDigSchol/DSIncubator/blob/master/4_Visualizations/exercise-2.md): Create a map using Boston landmarks and neighborhoods data
 
 ## Resources
-A [resources document](https://github.com/BCDigSchol/DSIncubator/blob/master/4_Visualizations/resources.md) that includes geospatial visualization, spatial humanities, tutorials, and GIS data sources.
+The [resources document](https://github.com/BCDigSchol/DSIncubator/blob/master/4_Visualizations/resources.md) includes geospatial visualization, spatial humanities, tutorials, and GIS data sources.
 
 [Subscribe to this session’s readings](https://api.zotero.org/groups/354489/items?start=0&limit=25&format=atom&tag=04_Visualizations&v=1) in the DSIncubator Zotero Library.
