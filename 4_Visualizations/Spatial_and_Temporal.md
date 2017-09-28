@@ -1,4 +1,4 @@
-# Visualizations: Spatial and Temporal
+# Visualization: Spatial and Temporal
 
 ## Introduction
 This document presents an overview of the session, which includes a discussion of mapping basics through visualization examples, a visualization task, datasets for the lesson, and the goals and learning outcomes. 
