@@ -6,7 +6,7 @@ A crit, or critique session, draws on fine arts practice, "in which a student's 
 
 Five volunteers will reflect upon their project for an audience of their fellow creators. Each round of reflection will follow this structure:
 
-1. Incubator participant presents project, drawing upon both the revised [project proposal](https://docs.google.com/document/d/1ZPn5Imlo_Q7nqHoQovid_zVovF5bbi5n1qcU9GgP39Y/edit?usp=sharing) and the [final reflection](/Reflections/final.md) (5 minutes).
+1. Incubator participant presents project, drawing upon revised [project proposal](https://docs.google.com/document/d/1ZPn5Imlo_Q7nqHoQovid_zVovF5bbi5n1qcU9GgP39Y/edit?usp=sharing) and [final reflection](/Reflections/final.md) (5 minutes).
 2. Incubator facilitators and other participants ask questions and offer feedback (10–13 minutes).
 
 We ask that these five volunteers send their revised proposal and final reflection, as well as any presentation materials, to digital-incubator-ggroup@bc.edu by Friday, October 27.
