@@ -13,7 +13,7 @@ Select one project per group.
 
 
 ## Discussion Questions
-[Download questions](https://github.com/BCDigSchol/DSIncubator/blob/master/4_Visualizations/CritiqueQuestions.docx?raw=true)
+[Download questions](CritiqueQuestions.docx)
 1. Does this project have a clearly defined message or research question? What is it?
 2. What is being visualized? 
 3. What are some of the applied tools or methods? 
