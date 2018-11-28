@@ -2,7 +2,7 @@
 
 ## Prompt
 
-To kick off your participation in the incubator, we ask you to reflect upon the goals of the project you hope to more fully develop during our time together. Some questions to guide your thinking include:
+To kick off your participation in the incubator, we ask you to reflect upon the affordances that digital methods/ tools may bring to your research. Some questions to guide your thinking include:
 
 - What do I think I’m doing? How do I currently conceptualize goals for this project? What do I think I’m creating? What are its components? Do these ideas seem adequate? Would I rather be doing something else? What? Why?
 - What are my fundamental assumptions? What values am I bringing to this project, and how do I see those values affecting my ideas? Is that a problem? What are my feelings toward this project? Is it cool? Challenging? Kind of stupid? Why?
