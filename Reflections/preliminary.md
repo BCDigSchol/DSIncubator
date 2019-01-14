@@ -15,7 +15,7 @@ To kick off your participation in the incubator, we ask you to reflect upon the 
 
 ## Where to submit
 
-Please submit your written reflection (perhaps around 500 words) to our cohort's Google Group at digital-incubator-ggroup@bc.edu. With your permission, we will post your reflection on the the Boston College Libraries' [digital scholarship blog](https://ds.bc.edu/blog).
+Please submit your written reflection (perhaps around 500 words) to our cohort's Google Group at spring-2019-digital-scholarship-incubator@googlegroups.com. With your permission, we will post your reflection on the the Boston College Libraries' [digital scholarship blog](https://ds.bc.edu/blog).
 
 ## Credit where credit is due
 
